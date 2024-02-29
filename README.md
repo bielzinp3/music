@@ -1,3 +1,48 @@
+BeMusic is a multi-purpose music sharing and streaming platform. It can be used to create many different types of music related sites, including sites similar to soundcloud, mixcloud, spotify and more.
+
+BeMusic - Music Streaming Engine - 1
+
+
+Features
+Automation – BeMusic can be set to “automated” mode which will automatically import and update artists, albums, tracks, channels and other information from 3rd party sites as well as stream music and video using youtube API.
+Content Management – All automation functionality can be disabled, which allows BeMusic to be used as a content management system. Control what content appears on the site by creating and managing it from admin area. This includes artists, albums, tracks, channels, videos and more.
+User Artists – Allow users to set up their profile and upload and share their music with others.
+Waveforms – Uploaded songs will get auto-generated realtime waveform.
+Sharing – Users can comment, repost, like, embed and playlist their favorite tracks and albums as well as easily share them via social media.
+User & artist profiles – Users can personalize their profile pages with custom avatar, background image, description, social links, location and more.
+Follower System – Users can stay up to date with other user and artist activities by following them.
+Easy Installation – Install BeMusic easily with no coding or server knowledge in a few minutes with our easy to use installer and documentation.
+Editable Landing Page – Default landing page can be easily edited via built-in appearance editor with live preview and no coding knowledge.
+SaaS mode – Earn money with built in premium subscription system. Create different plans for users to subscribe to and control what functionality and limitations each plan has.
+High Performance – BeMusic is lightweight and has lighting fast performance and page load time out of the box.
+User Libraries – Users can add songs, albums and artists to their library on BeMusic in addition to playlists.
+Playlists – Users can create, share and follow playlists.
+Player – Fully-featured player including shuffle, repeat, lyrics, queue and more.
+Dark Mode – BeMusic comes with pre-built light and dark themes. You can fully customize them or add new themes via appearance editor.
+Channels – Create automated or manually managed channels to display content matching specific criteria or ordered by a particular value. For example: top 50 tracks by plays, newly released albums, popular genres, albums ordered by plays and more.
+Search – When “automated” mode is enabled, virtually any artist, album or track can be found via search.
+Custom Pages – Custom pages (for example terms of service, about us etc) can be created using built-in WISIWYG editor.
+Menu Editor – All the menus across the site can be easily edited and reordered via drag and drop without any coding knowledge.
+Appearance Editor – Easily manage your site appearance (colors, logo, landing page, menus etc) via built-in appearance editor.
+Ads – Paste ad codes into integrated ad slots in admin panel and BeMusic will display them automatically.
+Roles & Permissions – Assign roles and permissions to users to give or restrict access to specific functionality on the site.
+Analytics – Google analytics are integrated right into admin panel so you don’t need to open a separate page to see how your site is doing.
+Translatable – Site can be easily translated from admin panel, it also has multi-language suport.
+Responsive – BeMusic is fully responsive and will work on desktop, mobile, tablet and other devices.
+Documentation – BeMusic comes with in depth documentation that explains everything from installation to all the features.
+SEO Editor – SEO tags for all pages can be modified directly from appearance editor in admin area.
+Authentication – Fully featured authentication system with social login (facebook, twitter and google), normal login, registration, password recovery, account settings and more.
+Disable Registration – Registration can be fully disabled from admin panel so only users you create manually from admin panel will be able to login.
+Professional Design – Pixel-perfect professional design based on google’s material design.
+Settings – Admin panel has many settings that allow you to fine-tune the site to your needs.
+Multiple Homepages – Choose between multiple homepages including channels, landing page, login page or your own custom html page.
+Source Code – You will receive full, unencrypted source code upon purchase, allowing easy custom modifications.
+Requirements
+PHP >= 8.1
+PDO Extension (enabled by default)
+php_fileinfo Extension (enabled by default)
+MySQL Database
+Changelog:
 <h2>2023 May 26 - Version 3.0.6</h2>
 <ul>
   <li>new: added two factor authentication support</li>
